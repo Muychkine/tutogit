@@ -1,0 +1,1 @@
+document.getElementbyClassName('body').css("backgoundColor", "red");
